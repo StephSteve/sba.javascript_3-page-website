@@ -11,4 +11,16 @@
 
 }
 
+.form-container {
+border: 25px outset rgb(23, 155, 73);
+text-align: center;
+margin: 550px;
+margin-top: 25px;
+padding: 25px;
+padding-top: 100px;
+width: 600px;
+height: 800px;
+
+}
+
 
