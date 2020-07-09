@@ -1,11 +1,13 @@
 
 
 .card-text-center {
+   
     clear: both;
 
 }
 
 .card {
+  display: block;
   float: left;
   margin: 50px;
   clear: both;
@@ -47,6 +49,13 @@ height: 500px;
 clear: both;
 }
 
+h1 {
+    color: lightcoral;
+}
+
+#joinbtn:hover {
+    background-color: lightcoral;
+}
 
 
 
