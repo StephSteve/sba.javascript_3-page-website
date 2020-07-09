@@ -23,4 +23,13 @@ height: 800px;
 
 }
 
+.reviews-table {
+    margin: 50px;
+}
+
+.img-row {
+    float: left;
+    margin: 50px;
+}
+
 
