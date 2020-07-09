@@ -8,6 +8,7 @@
 .card {
   float: left;
   margin: 50px;
+  clear: both;
 
 }
 
@@ -27,9 +28,25 @@ height: 800px;
     margin: 50px;
 }
 
-.img-row {
+.figure {
+    height:250px;
+    width: 250px;
     float: left;
-    margin: 50px;
+    margin: 150px;
 }
+
+.home-page-form-container {
+border: 25px outset rgb(23, 155, 73);
+text-align: center;
+margin: 550px;
+margin-top: 50px;
+padding: 25px;
+padding-top: 100px;
+width: 800px;
+height: 500px;
+clear: both;
+}
+
+
 
 
