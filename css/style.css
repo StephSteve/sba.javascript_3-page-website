@@ -7,15 +7,21 @@
 }
 
 .card {
-  display: block;
-  float: left;
+    float: left;
+    margin: 50px;
+    margin-left: 125px;
+
+}
+
+.card-body {
+
   margin: 50px;
   clear: both;
 
 }
 
 .form-container {
-border: 25px outset rgb(23, 155, 73);
+border: 25px outset lightcoral;
 text-align: center;
 margin: 550px;
 margin-top: 25px;
@@ -38,7 +44,7 @@ height: 800px;
 }
 
 .home-page-form-container {
-border: 25px outset rgb(23, 155, 73);
+border: 25px outset lightcoral;
 text-align: center;
 margin: 550px;
 margin-top: 50px;
@@ -55,6 +61,11 @@ h1 {
 
 #joinbtn:hover {
     background-color: lightcoral;
+}
+
+.display-4 {
+
+    font-family: 'Bungee Inline', cursive; 
 }
 
 
